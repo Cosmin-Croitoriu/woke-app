@@ -1,4 +1,4 @@
-# Woke App - Driving Trivia Game
+# Woke App - Driving Trivia Game!
 Woke is a voice activated trivia game you can play in your car.
 
 ## Motivation
